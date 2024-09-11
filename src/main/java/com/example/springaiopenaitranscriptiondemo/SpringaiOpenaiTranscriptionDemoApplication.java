@@ -1,0 +1,13 @@
+package com.example.springaiopenaitranscriptiondemo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringaiOpenaiTranscriptionDemoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringaiOpenaiTranscriptionDemoApplication.class, args);
+    }
+
+}
